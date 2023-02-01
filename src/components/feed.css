@@ -1,0 +1,39 @@
+.card_container{
+    margin: 45px 20px 0px 20px;
+    padding:  10px 60px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+    align-items: center;
+    
+}
+.cart_items{
+    width: 40vw;
+    margin: 5px;
+}
+.contact_item p {
+    margin: 0;   
+}
+.detailedContainer p{
+    margin: 0;
+}
+.moreDetails{
+    padding-left: 20px;
+    display: none !important;
+}
+.top, .bottom{
+    margin-bottom: 9px;
+}
+.active{
+    display: block !important;
+}
+.btmContainer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+    
+}
+.button{
+    margin: 10px;
+    justify-items: right;
+}
